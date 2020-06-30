@@ -1,1 +1,1 @@
-!(C:\Users\Fatmanur\Desktop\IMG_20200521_134006.jpg)[A photo of my cat]
+(![A photo of my cat](https://photos.google.com/photo/AF1QipP_rhwogNW70GE7SM5XQpUtCZMfMX8koJ-nINne))
